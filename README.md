@@ -1,1 +1,2 @@
 # hotel_reviews_recommended_system_segmentation
+Rating systems are meant to provide an accurate and objective assessment of accommodations.Website ratings are based on personal opinion and individual guest experience.The users opinion helps to improve reputation,higher occupancy and better pricing of the hotel.Data Analytics can enable a good understanding of customers’ perception brand positioning of hotel and thus helps in accurately aligning Hotel prices, placement and availability with each customer segment in an insightful way.
